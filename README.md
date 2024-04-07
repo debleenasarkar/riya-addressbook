@@ -56,7 +56,7 @@ To checkout and run the project in Eclipse, do:
   - If you do not see "Git" in the SCM menu, click "Find more SCM connectors in the m2e Marketplace" and install "m2e-egit". Restart Eclipse and start over.
 - Set the repository URL to https://github.com/vaadin/addressbook.git
 - Right click the imported "addressbook" and choose Run As -> Maven Build...
-  - Set the goal to "jetty:run" and click "Run"
+  - Set the goal to "jetty:run" and click "Run" .
 
 You should now have a Jetty server running on localhost:8080. Navigate to [http://localhost:8080/](http://localhost:8080/) to play with the application
 
